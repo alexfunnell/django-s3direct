@@ -6,7 +6,7 @@
     "example": "example"
   },
   "dependencies": {
-    "js-cookie": "^2.1.4",
+    "js-cookie": "^2.2.1",
     "evaporate": "^2.1.4",
     "sha.js": "^2.4.8",
     "spark-md5": "^3.0.0"
