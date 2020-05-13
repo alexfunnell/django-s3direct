@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.11.0",
-    "prettier": "^1.16.3"
+    "prettier": "^1.19.1"
   },
   "scripts": {
     "test": "python runtests.py",
